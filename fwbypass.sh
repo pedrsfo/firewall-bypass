@@ -13,7 +13,7 @@
 # Este script tem por finalidade verificar as portas permitidas para o tráfego de saída de um deteminado host.
 # Utilize-o em conjunto com o script abreportas.sh.
 
-# IMPORTANTE: Execute o script abreportas.sh antes da execução do script fwbypass.sh.
+# IMPORTANTE: Execute o script openports.sh antes da execução do script fwbypass.sh.
 
 # Instrui ao usuário o mode de uso.
 if [ "$1" == "" ];
