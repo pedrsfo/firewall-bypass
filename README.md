@@ -1,5 +1,5 @@
 # firewall-bypass
-Scripts para testagem de bypass em firewalls
+Scripts para testagem de bypass de firewalls em sistemas linux.
 
 A ferrmenta fwbypass.sh possui a capacidade de verificar as possíveis rotas de saídas pelo firewall. Ela automatiza o processo de abertura de conexões TCP, facilitando a identificação das portas permitidas para comunicação externa.
 #
